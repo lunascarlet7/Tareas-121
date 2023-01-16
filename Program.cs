@@ -1,10 +1,6 @@
 ﻿/*
- * Created by SharpDevelop.
- * User: Sure7777
- * Date: 12/5/2022
- * Time: 21:30
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
+ * Created by Tania Pinto.
+   Follow me !! ^^
  */
 using System;
 
